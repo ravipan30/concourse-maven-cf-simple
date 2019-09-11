@@ -1,5 +1,5 @@
 #!/bin/sh
-
+Chmod +X java1.sh
 set -e -x
 
 cd source-code
